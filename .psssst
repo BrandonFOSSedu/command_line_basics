@@ -1,0 +1,16 @@
+Do you want to play a game?
+
+Here's some good ones that are easy to play:
+2048, bombardier, phear, gnugo, greed, netris, ninvaders, nsnake, pacman4console, piu-piu, robotfindskitten, sudoku
+
+But the real fun games are for those proficient in the command line...
+In order to play the rogue-like games, you need to learn the vim movement keys.
+
+Practice using the game: pacvim
+h - left
+j - down
+k - up
+l - right
+
+Rogue-likes:
+hunt, nethack, angband, crawl, moria, omega-rpg, slashem
