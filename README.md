@@ -1,1 +1,3 @@
-# command_line_basics
+# Command Line Basics
+
+Use the README.md for the daily instructions.
